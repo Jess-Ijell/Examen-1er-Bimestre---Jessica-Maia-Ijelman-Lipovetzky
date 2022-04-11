@@ -141,8 +141,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ae69bb718599134aa73dda896fa8f40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MontoEnPesos: 2389.6
-  MonedaAConvertir: R
+  MontoEnPesos: 0
+  MonedaAConvertir: 
 --- !u!4 &97563493
 Transform:
   m_ObjectHideFlags: 0
